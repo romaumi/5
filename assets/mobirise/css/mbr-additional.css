@@ -1599,9 +1599,6 @@ body {
 .cid-rIKKwJsBwP .popup-btn.card-wrapper {
   z-index: 1 !important;
 }
-.cid-rIKKwJsBwP .opened {
-  padding-top: .5rem;
-}
 @media (max-width: 991px) {
   .cid-rIKKwJsBwP .navbar-collapse {
     padding-top: 0;
