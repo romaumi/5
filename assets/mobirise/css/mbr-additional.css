@@ -1697,6 +1697,10 @@ body {
 .cid-rIKKyOmHZL .mbr-section-title {
   color: #bbbbbb;
 }
+.cid-rIKKyOmHZL .mbr-section-text,
+.cid-rIKKyOmHZL .mbr-section-btn {
+  color: #bbbbbb;
+}
 .cid-rIKKFl9zyT {
   background-color: #bbbbbb;
   overflow: hidden !important;
