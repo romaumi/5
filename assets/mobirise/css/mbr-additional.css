@@ -1720,6 +1720,26 @@ body {
   text-align: left;
   color: #f21736;
 }
+.cid-rJx9U5R571 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rJx9U5R571 .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rJx9U5R571 .media-container-column {
+  padding: 0 2rem;
+}
+.cid-rJx9U5R571 .mbr-section-title {
+  display: inline-block;
+  position: relative;
+}
+@media (max-width: 767px) {
+  .cid-rJx9U5R571 .container-fluid {
+    padding: 0 1rem;
+  }
+}
 .cid-rJwSKh6a86 {
   padding-top: 0px;
   padding-bottom: 0px;
